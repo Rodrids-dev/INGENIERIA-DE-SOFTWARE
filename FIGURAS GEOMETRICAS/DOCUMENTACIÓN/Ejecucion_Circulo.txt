@@ -1,0 +1,20 @@
+********************************************************************************
+*:\Users\rodri\OneDrive\Documentos\ParadigmasDeProgramación\PROYECTOS\FIGURAS G*OMETRICAS\PASCAL>Calcular_Area.exe
+*                     CALCULAR AREAS DE FIGURAS GEOMETRICAS                   *
+*                                                                              *
+********************************************************************************
+*                                                                              *
+*                                  CIRCULO                                     *
+*                                                                              *
+*                                                                              *
+*                 INGRESE EL VALOR DEL RADIO: 8                                *
+*                                                                              *
+*                                                                              *
+*                                                                              *
+*                 EL AREA DEL CIRCULO ES: 201.061929829747                     *
+*                                                                              *
+C:\Users\rodri\OneDrive\Documentos\ParadigmasDeProgramación\PROYECTOS\FIGURAS GEOMETRICAS\PASCAL>
+*                                                                              *
+*                                                                              *
+*                                                                              *
+********************************************************************************

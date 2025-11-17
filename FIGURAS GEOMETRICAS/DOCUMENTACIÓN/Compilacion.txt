@@ -1,0 +1,14 @@
+
+C:\Users\rodri\OneDrive\Documentos\ParadigmasDeProgramación\PROYECTOS\FIGURAS GEOMETRICAS\PASCAL>fpc Calcular_Area.pas
+Free Pascal Compiler version 3.2.2 [2021/05/15] for i386
+Copyright (c) 1993-2021 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling Calcular_Area.pas
+Compiling U_CL_Circulo.pas
+Compiling U_Figura_Geometrica.pas
+Compiling U_CL_Triangulo.pas
+Compiling U_CL_Rectangulo.pas
+Linking Calcular_Area.exe
+360 lines compiled, 0.3 sec, 81536 bytes code, 5332 bytes data
+
+C:\Users\rodri\OneDrive\Documentos\ParadigmasDeProgramación\PROYECTOS\FIGURAS GEOMETRICAS\PASCAL>
